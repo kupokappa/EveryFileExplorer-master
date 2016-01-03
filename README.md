@@ -1,5 +1,8 @@
 Every File Explorer
 ===================
+
+This isn't mine, by the way.
+=================================
 <img src="http://florian.nouwt.com/EFEIcon.png" height="256px" align="right"/>
 Every File Explorer is a dynamic tool to browse, edit, view, explore and modify files. It is plugin-based, so you can make your own plugins for it aswell!
 
